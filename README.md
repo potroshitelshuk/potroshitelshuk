@@ -8,4 +8,4 @@ I am looking for a team to create new projects ⭐  and developing existing one 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potroshitelshuk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 📋 [Resume](https://drive.google.com/file/d/13F09mne6ZXnPgxxJAYWpJOiciR0BJyAj/view?usp=sharing)
+- 📋 [Resume](https://drive.google.com/file/d/1VDVL0syiH0xs3CJ6pEe7TxQ1mjGeuBB2/view?usp=sharing)
