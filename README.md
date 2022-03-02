@@ -4,5 +4,8 @@
 
 I am a 3rd Year Undergrad pursuing Bachelors in Technology in Computer Science Engineering from [HSE University](https://www.hse.ru/en/).
 
-I am looking for creating new projects, developing existing one and 
+I am looking for a team to create new projects ⭐  and developing existing one 💡.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potroshitelshuk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+- 📋 [Resume](https://dblp.org/pid/29/3402)
