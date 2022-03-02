@@ -1,3 +1,8 @@
-# potroshitelshuk
- 
-HI THERE!
+# Hi there!
+
+<img align="right" alt="Coder" height=300 width=400 src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" />
+
+I am a 3rd Year Undergrad pursuing Bachelors in Technology in Computer Science Engineering from [HSE University](https://www.hse.ru/en/).
+
+I am looking for creating new projects, developing existing one and 
+
