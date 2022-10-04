@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coder" height=300 width=400 src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" />
 
-I am a 3rd Year Undergrad pursuing Bachelors in Technology in Computer Science Engineering from [HSE University](https://www.hse.ru/en/).
+I am a 4th Year Undergrad pursuing Bachelors in Technology in Computer Science Engineering from [HSE University](https://www.hse.ru/en/).
 
 I am looking for a team to create new projects ⭐  and developing existing one 💡.
 
